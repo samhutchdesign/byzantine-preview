@@ -3,53 +3,23 @@
     <div class="container">
       <div class="page-content">
         <div class="page-header">
-          <img class="geode-logo" src="~assets/geode-logo.png" alt="geode logo">
+          <!--<img class="geode-logo" src="~assets/geode-logo.png" alt="geode logo">-->
+          <div>BYZANTINE</div>
         </div>
         <div class="page-slogans">
-          <div class="slogan"><strong>share</strong> cool things, </div>
-          <div class="slogan"><strong>discover</strong> something new, </div>
-          <div class="slogan"><strong>&amp; reward</strong> creators with crypto</div>
-        </div>
-        <div class="input-group">
-          <!--<input type="text" placeholder="your email">-->
-          <!--<button>HODL🚀</button>-->
-          <form action="https://network.us17.list-manage.com/subscribe/post?u=02a6dbdcae7af4655c9b2ac03&amp;id=945f88b53f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-              <div id="mc_embed_signup_scroll">
-
-          	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="your email" required>
-              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-              <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_02a6dbdcae7af4655c9b2ac03_945f88b53f" tabindex="-1" value=""></div>
-              <button><input type="submit" value="HODL🚀" name="hodl" id="mc-embedded-subscribe" class="button"></button>
-              </div>
-          </form>
-
+          <div class="slogan">A polychain cryptoeconomic network for shared discovery, creativity, and gameplay in any environment</div>
         </div>
         <div class="gallery-img-mobile">
-          <img src="~assets/geode-imgs-mobile.png" alt="geode logo">
-        </div>
-        <div class="app-info-wrapper">
-          <div class="app-info">
-            <p class="paragraph"><span class="linebreak">We're inviting 10,000 creators to join Steem!</span><span class="linebreak">Nominate the most talented people you know <a href="https://byzantine.typeform.com/to/ul7Woi"><span class="highlight">for a free account</span></a></span></p>
-            <div class="line"></div>
-            <p class="paragraph">Let's get to 1 million Steem Power, together: <a href="https://busy.org/@geode.cool"><span class="highlight">Learn how to delegate</span></a></p>
-          </div>
+          <img src="~assets/byzantine-bk.png" alt="geode logo">
         </div>
         <div class="page-footer">
-          <ul class="media-list">
-            <li><a href="https://busy.org/@geode.cool" target="_blank"><img src="~/assets/busy-icon.png" alt="busy icon"></a></li>
-            <li><a href="https://d.tube/#!/c/geode.cool" target="_blank"><img src="~/assets/dtube-icon.png" alt="dtube icon"></a></li>
-            <li><a href="https://www.dlive.io/#/user/geode.cool" target="_blank"><img src="~/assets/dlive-icon.png" alt="dlive icon"></a></li>
-            <li><a href="https://www.facebook.com/geode.cool" target="_blank"><img src="~/assets/facebook-icon.png" alt="facebook icon"></a></li>
-          </ul>
           <div class="copyright">
-            <div class="byzantine-thing"><a href="http://www.byzantine.network/"><span class="highlight">A Byzantine thing</span></a> | Byzantine Inc. 2018</div>
-            <div class="creativecommons"><br /><i class="fa fa-creative-commons" aria-hidden="true"></i>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><span class="highlight">Creative Commons Attribution 4.0 International License</span></a>.</div>
-            <div class="credits"><br />Featured images credit due to the always awesome <a rel="license" href="https://www.behance.net/beeple"><span class="highlight">Mike Winkelmann</span></a>.</div>
+            <div class="byzantine-thing">Byzantine Inc. 2018</div>
           </div>
         </div>
       </div>
       <div class="gallery-image">
-        <img src="~assets/geode-img-laptop.png" alt="gallery images">
+        <img src="~assets/byzantine-bk.png" alt="gallery images">
       </div>
     </div>
   </div>
