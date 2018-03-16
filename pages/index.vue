@@ -10,7 +10,7 @@
           <div class="slogan">A polychain cryptoeconomic network for shared discovery, creativity, and gameplay in any environment</div>
         </div>
         <div class="gallery-img-mobile">
-          <img src="~assets/byzantine-bk.png" alt="geode logo">
+          <img src="~assets/byzantine-bk.png" alt="byzantine logo">
         </div>
         <div class="page-footer">
           <div class="copyright">
@@ -177,11 +177,20 @@
 
 .gallery-image {
   flex: 0 0 auto;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  /* margin: 0 auto; */
+  width: 100%;
   height: 100vh;
+  margin: auto;
   overflow: hidden;
+
 }
 .gallery-image img {
-  height: 100%;
+  width: 100%;
+  /* height: 100%; */
 }
 
 @media (max-width: 940px) {
